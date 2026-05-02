@@ -16,23 +16,29 @@
 
 ---
 
+<div align="left">
+
 ### 🙋 About Me
 
-🎓 Final-year **AI & Data Science student** at **UBI**
+As a final-year AI & Data Science student at the University of Beira Interior (UBI), I focus on building intelligent systems that combine vision and language understanding, with applications in medical imaging and real-world AI problems. My interests lie in moving beyond classification toward deeper semantic understanding in both visual and textual data, particularly in zero-shot and data-scarce settings.
 
-🧠 Focused on systems that connect **vision and language**  
-&nbsp;&nbsp;&nbsp;&nbsp;— moving beyond classification into semantic understanding
+- 🎓 Final-year **AI & Data Science student** at **UBI** (Graduating July 2026)
 
-🧬 Interested in **medical imaging** and real-world AI  
-&nbsp;&nbsp;&nbsp;&nbsp;where reliability and interpretability matter
+- 🧠 Focused on **vision-language systems**  
+  → connecting visual perception with semantic understanding  
 
-💬 Exploring **natural language understanding**  
-&nbsp;&nbsp;&nbsp;&nbsp;and how models reason with context
+- 🧬 Interested in **medical imaging**  
+  → building AI for real-world, high-stakes scenarios  
 
-🛠️ I build **clean, modular, reproducible pipelines**  
-&nbsp;&nbsp;&nbsp;&nbsp;— not just experiments, but structured systems
+- 💬 Exploring **natural language understanding**  
+  → how models interpret context and meaning  
 
-📍 Covilhã, Portugal
+- 🛠️ Strong focus on **clean, modular, reproducible systems**  
+  → not just experiments, but structured pipelines  
+
+- 📍 Covilhã, Portugal
+
+</div>
 
 <br clear="right"/>
 
