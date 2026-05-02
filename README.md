@@ -161,5 +161,3 @@ Evaluation of interpretability methods for neural networks, including Grad-CAM a
 </p>
 
 ---
-
-<p align="center"><i>Building systems that understand, not just predict.</i></p>
