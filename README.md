@@ -150,7 +150,9 @@ Evaluation of interpretability methods for neural networks, including Grad-CAM a
 
 </div>
 
-### 🔗 Connect
+---
+
+## 🔗 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tiago-riscado-0544142ab/">
