@@ -12,8 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6D28D9&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student+%40+UBI;Vision-Language+Systems+%7C+Medical+Imaging;Connecting+visual+and+semantic+understanding;Building+clean%2C+reproducible+AI+systems." />
 </p>
 
-<p align="center">Graduation &nbsp;·&nbsp; <strong>July 2026</strong></p>
-
 ---
 
 <div align="left">
@@ -26,6 +24,7 @@
 As a final-year AI & Data Science student at the University of Beira Interior (UBI), I focus on building intelligent systems that combine vision and language understanding, with applications in medical imaging and real-world AI problems. My interests lie in moving beyond classification toward deeper semantic understanding in both visual and textual data, particularly in zero-shot and data-scarce settings.
 
 ### 📚 Currently Studying
+- 🎓 BSc in AI & Data Science @ UBI (Graduation &nbsp;·&nbsp; <strong>July 2026</strong>)
 - 👁️ Computer Vision — image processing, CNNs, image segmentation 
 - 💬 NLP — transformers, LLMs, prompt engineering  
 - 📊 Data Engineering — ETL pipelines, databases  
