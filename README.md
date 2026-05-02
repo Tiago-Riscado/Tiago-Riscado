@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:4f46e5&height=200&section=header&text=Tiago%20Riscado&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision%20%7C%20NLP&descAlignY=58&descSize=16&descColor=a5b4fc" />
-</div>
 
 <br/>
 
@@ -14,8 +11,6 @@
 <br/>
 
 ---
-
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 👨‍💻 About Me
 
